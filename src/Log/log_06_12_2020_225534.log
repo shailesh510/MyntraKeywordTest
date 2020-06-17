@@ -1,0 +1,26 @@
+2020-Jun-12 18:24:19,603 [main] com.Testing.MyntraKeyword 
+  INFO  open Url
+2020-Jun-12 18:24:22,142 [main] com.Testing.MyntraKeyword 
+  INFO  window maximize
+2020-Jun-12 18:24:22,145 [main] com.Testing.MyntraKeyword 
+  INFO  wait for 10 seconds
+2020-Jun-12 22:55:03,338 [main] com.Testing.MyntraKeyword 
+  INFO  open Url
+2020-Jun-12 22:55:05,349 [main] com.Testing.MyntraKeyword 
+  INFO  open Url
+2020-Jun-12 22:55:07,873 [main] com.Testing.MyntraKeyword 
+  INFO  window maximize
+2020-Jun-12 22:55:08,056 [main] com.Testing.MyntraKeyword 
+  INFO  wait for 10 seconds
+2020-Jun-12 22:55:08,814 [main] com.Testing.MyntraKeyword 
+  INFO  window maximize
+2020-Jun-12 22:55:08,856 [main] com.Testing.MyntraKeyword 
+  INFO  wait for 10 seconds
+2020-Jun-12 22:55:24,470 [main] com.Testing.MyntraKeyword 
+  INFO  Close the Browser
+2020-Jun-12 22:55:24,517 [main] com.Testing.MyntraKeyword 
+  INFO  Close the Browser
+2020-Jun-12 22:55:30,687 [main] com.Testing.MyntraKeyword 
+  INFO  Close the Browser
+2020-Jun-12 22:55:34,008 [main] com.Testing.MyntraKeyword 
+  INFO  Close the Browser

@@ -1,0 +1,8 @@
+2020-May-17 14:24:36,258 [main] com.Testing.MyntraKeyword 
+  INFO  open Url
+2020-May-17 14:24:38,711 [main] com.Testing.MyntraKeyword 
+  INFO  window maximize
+2020-May-17 14:24:38,730 [main] com.Testing.MyntraKeyword 
+  INFO  wait for 10 seconds
+2020-May-17 14:24:50,574 [main] com.Testing.MyntraKeyword 
+  INFO  Close the Browser

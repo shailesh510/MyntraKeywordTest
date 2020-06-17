@@ -1,0 +1,8 @@
+2020-Jun-16 23:28:03,358 [main] com.Testing.MyntraKeyword 
+  INFO  open Url
+2020-Jun-16 23:28:06,591 [main] com.Testing.MyntraKeyword 
+  INFO  window maximize
+2020-Jun-16 23:28:06,592 [main] stepsDefination.clickOnLogoToRedirect 
+  INFO  Application Open Successfully
+2020-Jun-16 23:28:11,348 [main] stepsDefination.clickOnLogoToRedirect 
+  INFO  click On Magnifier button

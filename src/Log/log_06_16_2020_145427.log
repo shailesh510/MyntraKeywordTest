@@ -1,0 +1,16 @@
+2020-Jun-16 14:54:20,400 [main] com.Testing.MyntraKeyword 
+  INFO  open Url
+2020-Jun-16 14:54:22,678 [main] com.Testing.MyntraKeyword 
+  INFO  window maximize
+2020-Jun-16 14:54:22,678 [main] stepsDefination.LogIn_SignUp 
+  INFO  Application Open Successfully
+2020-Jun-16 14:54:23,345 [main] stepsDefination.LogIn_SignUp 
+  INFO  Mouse Hover on profile
+2020-Jun-16 14:54:26,270 [main] stepsDefination.LogIn_SignUp 
+  INFO  click on LOgIn/SignUp Button
+2020-Jun-16 14:54:27,122 [main] stepsDefination.LogIn_SignUp 
+  INFO  Enter Mobile number
+2020-Jun-16 14:54:27,313 [main] stepsDefination.LogIn_SignUp 
+  INFO  Click On Continue Button
+2020-Jun-16 14:54:27,313 [main] com.Testing.MyntraKeyword 
+  INFO  wait for 10 seconds

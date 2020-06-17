@@ -1,0 +1,14 @@
+2020-Jun-16 23:33:00,116 [main] stepsDefination.LogIn_SignUp 
+  INFO  Mouse Hover on profile
+2020-Jun-16 23:33:03,645 [main] stepsDefination.LogIn_SignUp 
+  INFO  click on LOgIn/SignUp Button
+2020-Jun-16 23:33:04,553 [main] stepsDefination.LogIn_SignUp 
+  INFO  Enter Mobile number
+2020-Jun-16 23:33:04,780 [main] stepsDefination.LogIn_SignUp 
+  INFO  Click On Continue Button
+2020-Jun-16 23:33:04,780 [main] com.Testing.MyntraKeyword 
+  INFO  wait for 10 seconds
+2020-Jun-16 23:33:05,977 [main] stepsDefination.LogIn_SignUp 
+  INFO  Enter Password
+2020-Jun-16 23:33:06,221 [main] stepsDefination.LogIn_SignUp 
+  INFO  click On LogIn Button

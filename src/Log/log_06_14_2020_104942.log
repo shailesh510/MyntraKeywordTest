@@ -1,0 +1,6 @@
+2020-Jun-14 10:49:41,636 [main] com.Testing.MyntraKeyword 
+  INFO  open Url
+2020-Jun-14 10:49:41,731 [main] stepsDefination.verifySearchComponent 
+  INFO  Myntra Url is launched Successfully
+2020-Jun-14 10:49:42,415 [main] stepsDefination.verifySearchComponent 
+  INFO  Enter value successfully
