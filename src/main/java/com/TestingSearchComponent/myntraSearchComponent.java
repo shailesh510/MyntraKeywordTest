@@ -3,6 +3,7 @@ package com.TestingSearchComponent;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import com.MyntraCustomeUtil.PropertiesUtil;
@@ -10,7 +11,7 @@ import com.Testing.MyntraKeyword;
 
 public class myntraSearchComponent {
 
-	@BeforeMethod
+	@BeforeTest
 	private void base() {
 		MyntraKeyword.openBrowser("Chrome");
 		MyntraKeyword.openUrl("url");
@@ -20,11 +21,10 @@ public class myntraSearchComponent {
 
 	}
 
-	@AfterMethod
-
+	/*@AfterMethod
 	public void finalMethod() {
 		MyntraKeyword.close();
-	}
+	}*/
 
 	@Test
 	public void signUpLogin() {
@@ -38,7 +38,7 @@ public class myntraSearchComponent {
 
 	}
 
-	@Test
+	/*@Test
 	public void verifySearch() {
 		MyntraKeyword.enterText("xpath", "//input[@placeholder='Search for products, brands and more']", "shoes");
 		MyntraKeyword.performClick("xpath", "//span[contains(@class,'myntraweb-sprite desktop-iconSearch')]");
@@ -111,7 +111,7 @@ public class myntraSearchComponent {
 		MyntraKeyword.performClick("xpath","//div[@class='desktop-navLinks']//div[1]//div[1]//div[1]//div[1]//div[1]//li[1]//ul[1]//li[2]//a[1]");
 		MyntraKeyword.performClick("xpath", "//label[contains(text(),'Puma')]");
 
-	}
+	}*/
 
 	/*
 	 * @Test
@@ -121,7 +121,7 @@ public class myntraSearchComponent {
        MyntraKeyword.pageScroll(); MyntraKeyword.performClick("xpath","//label[contains(text(),'Rs. 500 to Rs. 2900')]");
 	 * MyntraKeyword.performClick("xpath",label[contains(text(),'Rs. 2902 to Rs. 5285')]"); } }
 	 */
-	@Test
+	/*@Test
 	public void verifyMenFilterSelectColour() {
 		MyntraKeyword.MouseMoveToLocation("xpath", "//a[@class='desktop-main'][contains(text(),'Men')]");
 		MyntraKeyword.performClick("xpath",
@@ -174,7 +174,7 @@ public class myntraSearchComponent {
 	
 
 			
-	}
+	}*/
 	
 	
 	

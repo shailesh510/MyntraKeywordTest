@@ -8,6 +8,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
@@ -34,9 +35,10 @@ public class MyntraKeyword extends Constants {
 			WebDriverManager.iedriver().setup();
 			driver = new InternetExplorerDriver();
 			break;
-		/*
-		 * case "HtmlUnit": driver = new HtmlUnitDriver(); break;
-		 */
+		
+		  case "HtmlUnit": driver = new HtmlUnitDriver(); 
+		  break;
+		 
 		default:
 			log.info("Open the Browser");
 			break;
